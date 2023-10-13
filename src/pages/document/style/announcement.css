@@ -1,0 +1,50 @@
+
+.body{
+
+    height: 1032px;
+    width: 780px;
+    clip-path: inset(0 100% 0 0);
+    position:absolute;
+    margin-left: 0mm;
+
+   
+  } 
+
+  .tnr {
+    font-family: times new roman;
+  }
+  .officers-header{
+    font-family: impact, sans-serif;
+  }
+
+  .officer-title{
+    font-family: times new roman;
+    font-size: 13.3333px;
+    font-weight:bold;
+    font-style: italic;
+  }
+
+  .officer-Name{
+    font-family: times new roman;
+    font-size: 14.6667px;
+  }
+  .paraones>p{
+    font-size: 1.2rem;
+    font-family: times new roman;
+    border-color: #000000;
+    padding: 0px;
+    margin-bottom: 20px;
+
+  }
+  .sign>p{
+    font-size: 10.5pt;
+    font-family: times new roman;
+    border-color: #000000;
+    padding: 0px;
+    margin-bottom: 20px;
+
+  }
+  .date{
+    font-size: 10.5pt;
+    font-family: times new roman;
+  }

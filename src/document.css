@@ -1,0 +1,8 @@
+
+  
+  .thumbnail * {
+    transform-origin: top left; /* set the origin for the scaling */
+    transform: scale(0.2); /* scale the content inside the thumbnail */
+    width: 500%; /* increase the width of the content to fill the thumbnail */
+    height: 500%; /* increase the height of the content to fill the thumbnail */
+  }
